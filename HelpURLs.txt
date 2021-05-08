@@ -1,0 +1,13 @@
+Login#https://birdseyesecuity.wixsite.com/application/login-page-help
+Register#https://birdseyesecuity.wixsite.com/application/register-page-help
+Drone Services#https://birdseyesecuity.wixsite.com/application/drone-services-help
+Response Logs#https://birdseyesecuity.wixsite.com/application/response-logs-help
+Reports#https://birdseyesecuity.wixsite.com/application/reports-help
+Account Details#https://birdseyesecuity.wixsite.com/application/account-details-help
+Dashboard#https://birdseyesecuity.wixsite.com/application/dashboard-help
+Analyse Surveillance#https://birdseyesecuity.wixsite.com/application/analyse-surveillance--help
+Drone Management#https://birdseyesecuity.wixsite.com/application/drone-management-help
+Suburb Management#https://birdseyesecuity.wixsite.com/application/suburb-management-help
+Staff Management#https://birdseyesecuity.wixsite.com/application/staff-management-help
+Flight Logs#https://birdseyesecuity.wixsite.com/application/flight-logs-help
+Staff Reports#https://birdseyesecuity.wixsite.com/application/staff-reports-help
